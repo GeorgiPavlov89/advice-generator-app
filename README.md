@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://georgipavlov89.github.io/tip-calculator-app/)
+- Live Site URL: (https://georgipavlov89.github.io/advice-generator-app/)
 
 ## My process
 
